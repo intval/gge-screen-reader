@@ -1,0 +1,9 @@
+.popover
+{
+    width:600px;
+    height: 300px;
+    position:absolute;
+    overflow: hidden;
+    top: 170px; left:0;
+    border: 15px solid black;
+}
